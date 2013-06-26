@@ -3,7 +3,7 @@ require './restroom'
 
 # Simulation script 1
 
-frequency = 5 # how many times a person goes to the restroom with the period
+frequency = 3 # how many times a person goes to the restroom with the period
 facilities_per_restroom = 3
 use_duration = 1
 population_range = 10..600 # using a population range of 0 to 500 people
